@@ -11,3 +11,4 @@ ensure
 box
 pathlib
 python-box
+dataclasses
