@@ -1,8 +1,8 @@
-# 1.Setting up Conda Environment Locally
+# 1 Project Details
 
 To set up a Conda environment in the current directory:
 
-## 1.1. Create Environment
+## 1.1..Setting up Conda Environment Locally
 
 ```bash
 conda create --prefix ./venv python=3.10 #To create environment
