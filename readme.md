@@ -13,7 +13,7 @@ conda deactivate # To deactivate environment
 
 ## 2. Project Structure
 
- -structure
+- structure
 
 ## 3. Configuration File
 
