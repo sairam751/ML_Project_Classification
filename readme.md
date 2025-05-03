@@ -24,4 +24,4 @@ conda deactivate # To deactivate environment
 
 ## 4. Data Ingestion Steps
 
--test
+- test
