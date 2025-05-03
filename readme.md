@@ -17,7 +17,11 @@ conda deactivate # To deactivate environment
 
 ## 3. Configuration File
 
-    ## 3.1  Replace the Project Name and Details
-        - In config.yaml file replace name of the file with your project name
-        - Replace project name in data ingestion configuration
-# 4. Data Ingestion Steps
+### 3.1  Replace the Project Name and Details
+
+- In config.yaml file replace name of the file with your project name
+- Replace project name in data ingestion configuration
+
+## 4. Data Ingestion Steps
+
+-test
