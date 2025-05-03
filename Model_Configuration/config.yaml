@@ -1,0 +1,24 @@
+project_details:
+  name: "WineQualityPredictionClassifier"
+  version: "1.0"
+  description: "This is a project configuration file for a wine quality prediction classifier using scikit-learn."
+  owner: "Sai Sri Ram Reddy"
+  contact: "test@gmail.com"
+  date: "2025-05-03"
+  license: "MIT"
+  repository: ""
+  url: ""
+  type: "ML_Model"
+  model_type: "Classification"
+  framework: "scikit-learn"
+
+
+
+artifacts_root: artifacts
+
+data_ingestion:
+  root_dir_data: "data/WineQualityPredictionClassifier/data_ingestion"
+  root_dir_artifacts: "artifacts/WineQualityPredictionClassifier/data_ingestion"
+  source_URL: https://github.com/krishnaik06/datasets/raw/refs/heads/main/winequality-data.zip
+  local_data_file: "artifacts/WineQualityPredictionClassifier/data_ingestion/WineQualityPredictionClassifier.zip"
+  unzip_dir: "artifacts/WineQualityPredictionClassifier/data_ingestion/unzippeddata"
