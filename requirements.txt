@@ -6,3 +6,8 @@ matplotlib
 seaborn
 pandas
 dvc
+numpy
+ensure
+box
+pathlib
+python-box
