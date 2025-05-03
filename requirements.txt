@@ -1,0 +1,8 @@
+scikit-learn
+PyYAML
+mlflow
+scikit-optimize
+matplotlib
+seaborn
+pandas
+dvc
